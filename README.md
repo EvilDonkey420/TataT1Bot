@@ -1,8 +1,4 @@
-# Python_autoClicker
+# GUI Autoomation in python
 <h3><p>
-This program I used to get passes for T1 Prima racing 2017.<br>
-I needed to play and win some card game a really annoying one.<br>
-So I wrote this to play my part.<br><br>
-
-And hope fully will be in top 20 in a few hours 2-3.
+A Python program, uses pyautogui library, which performs gui automation by timely evaluating the states of objects on screen and precisely clicking in a predefined programmable manner.
 </p></h3>
